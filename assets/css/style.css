@@ -1,0 +1,21 @@
+#current {
+    background-color: rgb(255, 251, 199);
+    width: 800px;
+    height: 300px;
+    margin: 0%;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border: 1px black;
+  }
+  
+  #fiveday {
+    background-color: rgb(210, 210, 255);
+  }
+  
+  #city-search {
+    height: fit-content;
+    width: 300px;
+    border: 1px black;
+    margin-left: 5px;
+    margin-right: 20px;
+  }
