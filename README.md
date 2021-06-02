@@ -23,7 +23,7 @@ This web application allows you to search for a city to display the current weat
 ## Demonstration of the Application
 The following image demonstrates the web application:
 
-![A 5-day Weather Display.](./assets/image/weather-dashboard.JPG)
+![A 5-day Weather Display.](./assets/images/weather-dashboard.JPG)
 
 
 ## Link to Application
